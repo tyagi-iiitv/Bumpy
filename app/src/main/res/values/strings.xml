@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Bumpy</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="action_settings">Developed by IIITV</string>
-    <string name="button1">Start</string>
-    <string name="button2">Stop</string>
-</resources>
